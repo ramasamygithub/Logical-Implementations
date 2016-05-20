@@ -1,3 +1,6 @@
-var mystr     = 'hello world';
-var revstr = mystr.split('').reverse().join('');
-console.log(revstr);
+
+var myStr = 'hello world';
+
+var revStr = mystr.split('').reverse().join('');
+
+console.log(revStr);
